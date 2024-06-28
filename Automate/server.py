@@ -12,8 +12,8 @@ def hello_world():
         <title>BrowserStack</title>
     </head>
     <body>
-        <h1>Hello, BrowserStack</h1>
-        <h3>I am Automation Support Engineer</h3>
+        <h1>Hello, <b style="color:orange">BrowserStack</b></h1>
+        <h3>I am <span style="font-style: italic">Automation Support Engineer<span></h3>
         <h5 style="color:red;">I solve real problems</h5>
         <button class="link-button" onclick="location.href='https://github.com/VAxRAxD'">Go to Github</button>
     </body>
